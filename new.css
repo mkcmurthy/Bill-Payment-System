@@ -1,0 +1,96 @@
+﻿.title {
+    padding-left: 2em;
+    padding-top: 1em;
+    width: 290px;
+    color: darkgoldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+.headLinks {
+    padding-left: 25em;
+    padding-top: 0em;
+    font-size: 20px;
+    width: 1100px;
+}
+
+a {
+    padding-left: 5em;
+}
+
+.loginForm {
+    background-image: url(paybill.jpg);
+    background-size: cover;
+    height: 500px;
+    max-width: 600px;
+    padding-left: 73em;
+    padding-top: 4em;
+}
+
+.forgotpass {
+    background-image: url(paybill.jpg);
+    background-size: cover;
+    height: 800px;
+    max-width: 1600px;
+    text-align: center;
+    //padding-top: 10em;
+}
+
+.userlogin {
+    background-image: url(paybill.jpg);
+    background-size: cover;
+    height: 800px;
+    max-width: 1600px;
+    text-align: center;
+    //padding-top: 10em;
+}
+
+.aboutUs {
+    background-image: url(paybill.jpg);
+}
+
+.security {
+    background-image: url(paybill.jpg);
+}
+
+.contactdetailstab {
+    background-color:burlywood;
+}
+
+.contactusmidhead {
+    background-color: burlywood;
+  
+   
+}
+
+.CUsubmitbutton {
+    background-color: burlywood;
+    padding-top:2em;
+    height:10%;
+  
+}
+
+#subButton {
+    position: relative;
+    top: -13px;
+    left: 400px;
+    height: 40px;
+    width: 800px;
+    font-size:30px;
+    background-color:blue;
+}
+
+.faq {
+    background-color: yellow;
+    padding-top: 2em;
+    height: 10%;
+    text-align:left;
+    align-items:center;
+}
+
+form {
+    display: inline-block;
+   
+}
+
+

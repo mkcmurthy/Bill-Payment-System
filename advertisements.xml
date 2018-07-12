@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>paypal.png</ImageUrl>
+    <NavigateUrl>http://www.paypal.com</NavigateUrl>
+    <AlternateText>
+     paypal
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>paypal</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>etranzact.png</ImageUrl>
+    <NavigateUrl>http://www.etranzact.com</NavigateUrl>
+    <AlternateText>etranzact</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>etranzact</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>stripe.png</ImageUrl>
+    <NavigateUrl>http://www.stripe.com</NavigateUrl>
+    <AlternateText>stripe</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>stripe</Keyword>
+  </Ad>
+
+</Advertisements>
